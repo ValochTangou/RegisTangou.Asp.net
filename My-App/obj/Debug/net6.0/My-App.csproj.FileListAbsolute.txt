@@ -1,0 +1,8 @@
+C:\Users\Lenovo\Documents\Scool-App\My-App\My-App\obj\Debug\net6.0\My-App.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\Scool-App\My-App\My-App\obj\Debug\net6.0\My-App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\Scool-App\My-App\My-App\obj\Debug\net6.0\My-App.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\Scool-App\My-App\My-App\obj\Debug\net6.0\My-App.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\Scool-App\My-App\My-App\obj\Debug\net6.0\My-App.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Scool-App\My-App\My-App\obj\Debug\net6.0\My-App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\Documents\Scool-App\My-App\My-App\obj\Debug\net6.0\My-App.RazorAssemblyInfo.cache
+C:\Users\Lenovo\Documents\Scool-App\My-App\My-App\obj\Debug\net6.0\My-App.RazorAssemblyInfo.cs
